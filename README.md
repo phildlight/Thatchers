@@ -1,0 +1,1 @@
+This is a mirror of files scraped from a defunct GeoCities hosted site. The files had been modified at some point with malware/adware injected into the header/footer. I scraped the files and removed the malware code/links. Only providing so people can view the site safely.
